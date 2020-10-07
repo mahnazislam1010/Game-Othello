@@ -32,7 +32,7 @@ winner is decided. This decision is reached by identifying which of the two oppo
 the most pieces on the board. 
 
 #### Game Screen Shot
-![alt text](https://github.com/Ayush-IITP/Reversi-Game/blob/master/OthelloScreenShot.png)
+![alt text](https://github.com/mahnazislam1010/Game_Othello/blob/main/OthelloScreenShot.png)
 
 #### About the code
 The website is written in php and uses mysql database to store the data mid game. Other than this, the website contains a little bit of HTML, CSS, and JavaScript.
