@@ -32,6 +32,7 @@ winner is decided. This decision is reached by identifying which of the two oppo
 the most pieces on the board. 
 
 #### Game Screen Shot
+![alt text](https://github.com/mahnazislam1010/Game_Othello/blob/main/HomePage.png)
 ![alt text](https://github.com/mahnazislam1010/Game_Othello/blob/main/OthelloScreenShot.png)
 
 #### About the code
